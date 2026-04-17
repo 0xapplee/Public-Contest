@@ -1,5 +1,6 @@
-# Epoch Snapshot Reward Calculation Allows Shorter Locks to Earn Disproportionately Higher Emissions 
+> !Note: The findings of [this contest](https://code4rena.com/audits/2026-03-intuition) are not yet public, so I have shared the report here for now.
 
+# Epoch Snapshot Reward Calculation Allows Shorter Locks to Earn Disproportionately Higher Emissions 
 
 ## Finding Description
 
